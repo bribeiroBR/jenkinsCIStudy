@@ -460,7 +460,7 @@ SONARQUBE AND JENKINS INTEGRATION
 - INSTALLATION ON JENKINS
 --- go to Jenkins in the Configuration > Manage Plugin > Available and add the plugin called SonarQube Plugin
 
-- CONFIGURATION ON KENKINS
+- CONFIGURATION ON JENKINS
 --- after the installation back to Manage Jenkins > Configure System > Search for Sonar
 --- give a name to your sonar = SonarQube
 --- serverURL = http://localhost:9000
